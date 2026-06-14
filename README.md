@@ -65,7 +65,7 @@ Student-Marks-Analysis/
 
 ## 👨‍💻 Author
 
-Dhruv Patel
+Dhrumil Patel
 
 ---
 
